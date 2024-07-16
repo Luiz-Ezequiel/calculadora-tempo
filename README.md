@@ -62,8 +62,4 @@ Para mais informações, entre em contato através do email: [luiz.ezequiel2004@
 Sinta-se à vontade para modificar e melhorar o código conforme necessário. Aproveite a calculadora de tempo!
 
 ---
-
-
-
-
-Sinta-se à vontade para modificar e melhorar o código conforme necessário. Aproveite a calculadora de tempo!
+e melhorar o código conforme necessário. Aproveite a calculadora de tempo!
